@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 66982f96b8cef614886202700e553fb1
+timeCreated: 1501095625
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 081000_DoorInst-Upward-Acting_PW Type SC - Overhead Sectional Glassl [2499371]
+    100002: 081000_DoorInst-Upward-Acting_PW-Small Type SC - Overhead Sectional Glassl
+      [4561778]
+    100004: atrium roof parapet-L1 atrium roof parapet-L [4378316]
+    100006: Basic Roof 150mm Roof [606053]
+    100008: Basic Roof 20 mm Roof (sill) [1276223]
+    100010: Basic Roof 20 mm Roof (sill) [1674223]
+    100012: Basic Roof 20 mm Roof (sill) [2822017]
+    100014: Basic Roof 20 mm Roof (sill) [4333834]
+    100016: Basic Roof Ballast Roof - Without Struct Slab [4527336]
+    100018: Basic Roof Ballast Roof - Without Struct Slab [4527526]
+    100020: Basic Roof Ballast Roof - Without Struct Slab [4527817]
+    100022: Basic Roof Ballast Roof - Without Struct Slab [4527938]
+    100024: Basic Roof ENTRY CANOPY_bottom [4536776]
+    100026: Basic Roof ENTRY CANOPY_main [3905372]
+    100028: Basic Roof ENTRY CANOPY_main [4159094]
+    100030: Basic Roof ENTRY CANOPY_middle [4143214]
+    100032: Basic Roof Green Roof - Without Struct Slab - Thinner Soil [1618510]
+    100034: Basic Roof River Rocks - Without Struct Slab [1692928]
+    100036: Basic Roof River Rocks - Without Struct Slab [2720385]
+    100038: Basic Roof River Rocks - Without Struct Slab [2727155]
+    100040: Basic Wall Column Cover - Exterior - Insul + RainScreen [1321389]
+    100042: Basic Wall Concrete Curb - 20cm [1561151]
+    100044: Basic Wall Concrete Curb - 20cm [1561155]
+    100046: Basic Wall Concrete Curb - 20cm [2882780]
+    100048: Basic Wall Concrete Curb - 20cm [3833856]
+    100050: Basic Wall Concrete Curb - 20cm [4342601]
+    100052: Basic Wall Concrete Curb - 20cm [4342787]
+    100054: Basic Wall Concrete Curb - 20cm [4342802]
+    100056: Basic Wall Concrete Curb - 20cm [4346159]
+    100058: Basic Wall Concrete Curb - 20cm [4361098]
+    100060: Basic Wall Concrete Curb - 20cm [4361099]
+    100062: Basic Wall Concrete Curb - 20cm [4392445]
+    100064: Basic Wall Concrete Curb - 20cm [4405538]
+    100066: Basic Wall Concrete Curb - 20cm [4460818]
+    100068: Basic Wall Concrete Curb - 20cm [4460862]
+    100070: Basic Wall Concrete Curb - 20cm [4468598]
+    100072: Basic Wall Concrete Curb - 20cm [4468782]
+    100074: Basic Wall Concrete Curb - 20cm [4468907]
+    100076: Basic Wall Concrete Curb - 20cm [4469105]
+    100078: Basic Wall Concrete Curb - 20cm [4483936]
+    100080: Basic Wall Concrete Curb - 20cm [4544331]
+    100082: Basic Wall Exterior Wall - Cold-Formed Mtl + Composite Mtl Panel [5087178]
+    100084: Basic Wall EXTERIOR WALL- 20cm [617748]
+    100086: Basic Wall Glazing Partition - 1.2cm [4594654]
+    100088: Basic Wall METAL MULLION COVER [1323705]
+    100090: Basic Wall XC_WALL_120 - Louvered [4263728]
+    100092: cap11 cap1 [4232519]
+    100094: cap5 cap1 [4152853]
+    100096: cap7 cap1 [4232562]
+    100098: cap9 cap1 [4235739]
+    100100: Conference Lobby Canopy1 Conference Lobby Canopy [4150103]
+    100102: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]
+    100104: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart0
+    100106: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart1
+    100108: ED Canopy Glazing ED Canopy Glazing [4604442]
+    100110: ED Canopy Metal ED Canopy Metal [4627458]
+    100112: ED Canopy Soffit ED Canopy Soffit [4630106]
+    100114: ed canopy sweep ed canopy sweep [4536832]
+    100116: ED Entry ED Entry [4495760]
+    100118: Floor Concrete Structural Slab - Darken [2822049]
+    100120: Floor Concrete Structural Slab - Darken [4527176]
+    100122: Floor Concrete Structural Slab [840464]
+    100124: Floor LW Concrete on Metal Deck - 1/2meter [4084976]
+    100126: HEAD8 HEAD [3641286]
+    100128: louver louver [4184204]
+    100130: Louver_south tower top north Louver_south tower top north [4029781]
+    100132: Louver_tower bottom Louver_tower bottom [4028891]
+    100134: Louver_tower top Louver_tower top [4029762]
+    100136: louvers-roof louvers-roof [4365248]
+    100138: louvers-roof1 louvers-roof [4371602]
+    100140: Metal Cover Fascia Metal Cover Fascia [4968785]
+    100142: north tower - bottom - louver north tower - bottom - louver [4258625]
+    100144: NORTH TOWER - TOP - INSIDE LOUVER NORTH TOWER - TOP - INSIDE LOUVER [4287824]
+    100146: North Tower Ground Lvl Corner Windows 2 [4208335]
+    100148: north tower-top louver north tower-top louver [4242945]
+    100150: Podium - Lvl 02 - East - Corner Podium - Lvl 02 - East - Corner [4147016]
+    100152: Podium - Lvl 02 - West - Corner Podium - Lvl 02 - West - Corner [4219611]
+    100154: Podium East - Louver@ Lvl 04 Podium East - Louver@ Lvl 04 [4212299]
+    100156: Podium Lvl 03 Window Extended Sill EAST PODIUM1 Podium Lvl 03 Window Extended
+      Sill [4267683]
+    100158: Podium Lvl 03 Window Extended Sill EAST PODIUM2 Podium Lvl 03 Window Extended
+      Sill [3764267]
+    100160: Podium West - Louver@ Lvl 04 Podium West - Louver@ Lvl 04 [4264994]
+    100162: Skylight - Panel Skylight Panel [4380284]
+    100164: Slab Edge Exterior Metal Cover1 Slab Edge Exterior Metal Cover [3659173]
+    100166: south tower - bottom - louver south tower - bottom - louver [4267083]
+    100168: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]
+    100170: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart0
+    100172: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart1
+    100174: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart10
+    100176: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart11
+    100178: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart12
+    100180: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart13
+    100182: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart14
+    100184: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart15
+    100186: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart16
+    100188: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart17
+    100190: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart18
+    100192: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart19
+    100194: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart2
+    100196: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart20
+    100198: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart21
+    100200: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart22
+    100202: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart3
+    100204: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart4
+    100206: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart5
+    100208: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart6
+    100210: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart7
+    100212: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart8
+    100214: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart9
+    100216: System Panel Solid [4142629]
+    100218: //RootNode
+    400000: 081000_DoorInst-Upward-Acting_PW Type SC - Overhead Sectional Glassl [2499371]
+    400002: 081000_DoorInst-Upward-Acting_PW-Small Type SC - Overhead Sectional Glassl
+      [4561778]
+    400004: atrium roof parapet-L1 atrium roof parapet-L [4378316]
+    400006: Basic Roof 150mm Roof [606053]
+    400008: Basic Roof 20 mm Roof (sill) [1276223]
+    400010: Basic Roof 20 mm Roof (sill) [1674223]
+    400012: Basic Roof 20 mm Roof (sill) [2822017]
+    400014: Basic Roof 20 mm Roof (sill) [4333834]
+    400016: Basic Roof Ballast Roof - Without Struct Slab [4527336]
+    400018: Basic Roof Ballast Roof - Without Struct Slab [4527526]
+    400020: Basic Roof Ballast Roof - Without Struct Slab [4527817]
+    400022: Basic Roof Ballast Roof - Without Struct Slab [4527938]
+    400024: Basic Roof ENTRY CANOPY_bottom [4536776]
+    400026: Basic Roof ENTRY CANOPY_main [3905372]
+    400028: Basic Roof ENTRY CANOPY_main [4159094]
+    400030: Basic Roof ENTRY CANOPY_middle [4143214]
+    400032: Basic Roof Green Roof - Without Struct Slab - Thinner Soil [1618510]
+    400034: Basic Roof River Rocks - Without Struct Slab [1692928]
+    400036: Basic Roof River Rocks - Without Struct Slab [2720385]
+    400038: Basic Roof River Rocks - Without Struct Slab [2727155]
+    400040: Basic Wall Column Cover - Exterior - Insul + RainScreen [1321389]
+    400042: Basic Wall Concrete Curb - 20cm [1561151]
+    400044: Basic Wall Concrete Curb - 20cm [1561155]
+    400046: Basic Wall Concrete Curb - 20cm [2882780]
+    400048: Basic Wall Concrete Curb - 20cm [3833856]
+    400050: Basic Wall Concrete Curb - 20cm [4342601]
+    400052: Basic Wall Concrete Curb - 20cm [4342787]
+    400054: Basic Wall Concrete Curb - 20cm [4342802]
+    400056: Basic Wall Concrete Curb - 20cm [4346159]
+    400058: Basic Wall Concrete Curb - 20cm [4361098]
+    400060: Basic Wall Concrete Curb - 20cm [4361099]
+    400062: Basic Wall Concrete Curb - 20cm [4392445]
+    400064: Basic Wall Concrete Curb - 20cm [4405538]
+    400066: Basic Wall Concrete Curb - 20cm [4460818]
+    400068: Basic Wall Concrete Curb - 20cm [4460862]
+    400070: Basic Wall Concrete Curb - 20cm [4468598]
+    400072: Basic Wall Concrete Curb - 20cm [4468782]
+    400074: Basic Wall Concrete Curb - 20cm [4468907]
+    400076: Basic Wall Concrete Curb - 20cm [4469105]
+    400078: Basic Wall Concrete Curb - 20cm [4483936]
+    400080: Basic Wall Concrete Curb - 20cm [4544331]
+    400082: Basic Wall Exterior Wall - Cold-Formed Mtl + Composite Mtl Panel [5087178]
+    400084: Basic Wall EXTERIOR WALL- 20cm [617748]
+    400086: Basic Wall Glazing Partition - 1.2cm [4594654]
+    400088: Basic Wall METAL MULLION COVER [1323705]
+    400090: Basic Wall XC_WALL_120 - Louvered [4263728]
+    400092: cap11 cap1 [4232519]
+    400094: cap5 cap1 [4152853]
+    400096: cap7 cap1 [4232562]
+    400098: cap9 cap1 [4235739]
+    400100: Conference Lobby Canopy1 Conference Lobby Canopy [4150103]
+    400102: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]
+    400104: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart0
+    400106: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart1
+    400108: ED Canopy Glazing ED Canopy Glazing [4604442]
+    400110: ED Canopy Metal ED Canopy Metal [4627458]
+    400112: ED Canopy Soffit ED Canopy Soffit [4630106]
+    400114: ed canopy sweep ed canopy sweep [4536832]
+    400116: ED Entry ED Entry [4495760]
+    400118: Floor Concrete Structural Slab - Darken [2822049]
+    400120: Floor Concrete Structural Slab - Darken [4527176]
+    400122: Floor Concrete Structural Slab [840464]
+    400124: Floor LW Concrete on Metal Deck - 1/2meter [4084976]
+    400126: HEAD8 HEAD [3641286]
+    400128: louver louver [4184204]
+    400130: Louver_south tower top north Louver_south tower top north [4029781]
+    400132: Louver_tower bottom Louver_tower bottom [4028891]
+    400134: Louver_tower top Louver_tower top [4029762]
+    400136: louvers-roof louvers-roof [4365248]
+    400138: louvers-roof1 louvers-roof [4371602]
+    400140: Metal Cover Fascia Metal Cover Fascia [4968785]
+    400142: north tower - bottom - louver north tower - bottom - louver [4258625]
+    400144: NORTH TOWER - TOP - INSIDE LOUVER NORTH TOWER - TOP - INSIDE LOUVER [4287824]
+    400146: North Tower Ground Lvl Corner Windows 2 [4208335]
+    400148: north tower-top louver north tower-top louver [4242945]
+    400150: Podium - Lvl 02 - East - Corner Podium - Lvl 02 - East - Corner [4147016]
+    400152: Podium - Lvl 02 - West - Corner Podium - Lvl 02 - West - Corner [4219611]
+    400154: Podium East - Louver@ Lvl 04 Podium East - Louver@ Lvl 04 [4212299]
+    400156: Podium Lvl 03 Window Extended Sill EAST PODIUM1 Podium Lvl 03 Window Extended
+      Sill [4267683]
+    400158: Podium Lvl 03 Window Extended Sill EAST PODIUM2 Podium Lvl 03 Window Extended
+      Sill [3764267]
+    400160: Podium West - Louver@ Lvl 04 Podium West - Louver@ Lvl 04 [4264994]
+    400162: Skylight - Panel Skylight Panel [4380284]
+    400164: Slab Edge Exterior Metal Cover1 Slab Edge Exterior Metal Cover [3659173]
+    400166: south tower - bottom - louver south tower - bottom - louver [4267083]
+    400168: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]
+    400170: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart0
+    400172: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart1
+    400174: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart10
+    400176: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart11
+    400178: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart12
+    400180: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart13
+    400182: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart14
+    400184: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart15
+    400186: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart16
+    400188: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart17
+    400190: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart18
+    400192: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart19
+    400194: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart2
+    400196: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart20
+    400198: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart21
+    400200: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart22
+    400202: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart3
+    400204: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart4
+    400206: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart5
+    400208: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart6
+    400210: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart7
+    400212: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart8
+    400214: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart9
+    400216: System Panel Solid [4142629]
+    400218: //RootNode
+    2300000: 081000_DoorInst-Upward-Acting_PW Type SC - Overhead Sectional Glassl
+      [2499371]
+    2300002: 081000_DoorInst-Upward-Acting_PW-Small Type SC - Overhead Sectional Glassl
+      [4561778]
+    2300004: atrium roof parapet-L1 atrium roof parapet-L [4378316]
+    2300006: Basic Roof 150mm Roof [606053]
+    2300008: Basic Roof 20 mm Roof (sill) [1276223]
+    2300010: Basic Roof 20 mm Roof (sill) [1674223]
+    2300012: Basic Roof 20 mm Roof (sill) [2822017]
+    2300014: Basic Roof 20 mm Roof (sill) [4333834]
+    2300016: Basic Roof Ballast Roof - Without Struct Slab [4527336]
+    2300018: Basic Roof Ballast Roof - Without Struct Slab [4527526]
+    2300020: Basic Roof Ballast Roof - Without Struct Slab [4527817]
+    2300022: Basic Roof Ballast Roof - Without Struct Slab [4527938]
+    2300024: Basic Roof ENTRY CANOPY_bottom [4536776]
+    2300026: Basic Roof ENTRY CANOPY_main [3905372]
+    2300028: Basic Roof ENTRY CANOPY_main [4159094]
+    2300030: Basic Roof ENTRY CANOPY_middle [4143214]
+    2300032: Basic Roof Green Roof - Without Struct Slab - Thinner Soil [1618510]
+    2300034: Basic Roof River Rocks - Without Struct Slab [1692928]
+    2300036: Basic Roof River Rocks - Without Struct Slab [2720385]
+    2300038: Basic Roof River Rocks - Without Struct Slab [2727155]
+    2300040: Basic Wall Column Cover - Exterior - Insul + RainScreen [1321389]
+    2300042: Basic Wall Concrete Curb - 20cm [1561151]
+    2300044: Basic Wall Concrete Curb - 20cm [1561155]
+    2300046: Basic Wall Concrete Curb - 20cm [2882780]
+    2300048: Basic Wall Concrete Curb - 20cm [3833856]
+    2300050: Basic Wall Concrete Curb - 20cm [4342601]
+    2300052: Basic Wall Concrete Curb - 20cm [4342787]
+    2300054: Basic Wall Concrete Curb - 20cm [4342802]
+    2300056: Basic Wall Concrete Curb - 20cm [4346159]
+    2300058: Basic Wall Concrete Curb - 20cm [4361098]
+    2300060: Basic Wall Concrete Curb - 20cm [4361099]
+    2300062: Basic Wall Concrete Curb - 20cm [4392445]
+    2300064: Basic Wall Concrete Curb - 20cm [4405538]
+    2300066: Basic Wall Concrete Curb - 20cm [4460818]
+    2300068: Basic Wall Concrete Curb - 20cm [4460862]
+    2300070: Basic Wall Concrete Curb - 20cm [4468598]
+    2300072: Basic Wall Concrete Curb - 20cm [4468782]
+    2300074: Basic Wall Concrete Curb - 20cm [4468907]
+    2300076: Basic Wall Concrete Curb - 20cm [4469105]
+    2300078: Basic Wall Concrete Curb - 20cm [4483936]
+    2300080: Basic Wall Concrete Curb - 20cm [4544331]
+    2300082: Basic Wall Exterior Wall - Cold-Formed Mtl + Composite Mtl Panel [5087178]
+    2300084: Basic Wall EXTERIOR WALL- 20cm [617748]
+    2300086: Basic Wall Glazing Partition - 1.2cm [4594654]
+    2300088: Basic Wall METAL MULLION COVER [1323705]
+    2300090: Basic Wall XC_WALL_120 - Louvered [4263728]
+    2300092: cap11 cap1 [4232519]
+    2300094: cap5 cap1 [4152853]
+    2300096: cap7 cap1 [4232562]
+    2300098: cap9 cap1 [4235739]
+    2300100: Conference Lobby Canopy1 Conference Lobby Canopy [4150103]
+    2300102: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart0
+    2300104: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart1
+    2300106: ED Canopy Glazing ED Canopy Glazing [4604442]
+    2300108: ED Canopy Metal ED Canopy Metal [4627458]
+    2300110: ED Canopy Soffit ED Canopy Soffit [4630106]
+    2300112: ed canopy sweep ed canopy sweep [4536832]
+    2300114: ED Entry ED Entry [4495760]
+    2300116: Floor Concrete Structural Slab - Darken [2822049]
+    2300118: Floor Concrete Structural Slab - Darken [4527176]
+    2300120: Floor Concrete Structural Slab [840464]
+    2300122: Floor LW Concrete on Metal Deck - 1/2meter [4084976]
+    2300124: HEAD8 HEAD [3641286]
+    2300126: louver louver [4184204]
+    2300128: Louver_south tower top north Louver_south tower top north [4029781]
+    2300130: Louver_tower bottom Louver_tower bottom [4028891]
+    2300132: Louver_tower top Louver_tower top [4029762]
+    2300134: louvers-roof louvers-roof [4365248]
+    2300136: louvers-roof1 louvers-roof [4371602]
+    2300138: Metal Cover Fascia Metal Cover Fascia [4968785]
+    2300140: north tower - bottom - louver north tower - bottom - louver [4258625]
+    2300142: NORTH TOWER - TOP - INSIDE LOUVER NORTH TOWER - TOP - INSIDE LOUVER [4287824]
+    2300144: North Tower Ground Lvl Corner Windows 2 [4208335]
+    2300146: north tower-top louver north tower-top louver [4242945]
+    2300148: Podium - Lvl 02 - East - Corner Podium - Lvl 02 - East - Corner [4147016]
+    2300150: Podium - Lvl 02 - West - Corner Podium - Lvl 02 - West - Corner [4219611]
+    2300152: Podium East - Louver@ Lvl 04 Podium East - Louver@ Lvl 04 [4212299]
+    2300154: Podium Lvl 03 Window Extended Sill EAST PODIUM1 Podium Lvl 03 Window
+      Extended Sill [4267683]
+    2300156: Podium Lvl 03 Window Extended Sill EAST PODIUM2 Podium Lvl 03 Window
+      Extended Sill [3764267]
+    2300158: Podium West - Louver@ Lvl 04 Podium West - Louver@ Lvl 04 [4264994]
+    2300160: Skylight - Panel Skylight Panel [4380284]
+    2300162: Slab Edge Exterior Metal Cover1 Slab Edge Exterior Metal Cover [3659173]
+    2300164: south tower - bottom - louver south tower - bottom - louver [4267083]
+    2300166: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart0
+    2300168: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart1
+    2300170: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart10
+    2300172: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart11
+    2300174: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart12
+    2300176: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart13
+    2300178: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart14
+    2300180: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart15
+    2300182: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart16
+    2300184: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart17
+    2300186: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart18
+    2300188: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart19
+    2300190: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart2
+    2300192: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart20
+    2300194: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart21
+    2300196: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart22
+    2300198: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart3
+    2300200: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart4
+    2300202: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart5
+    2300204: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart6
+    2300206: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart7
+    2300208: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart8
+    2300210: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart9
+    2300212: System Panel Solid [4142629]
+    3300000: 081000_DoorInst-Upward-Acting_PW Type SC - Overhead Sectional Glassl
+      [2499371]
+    3300002: 081000_DoorInst-Upward-Acting_PW-Small Type SC - Overhead Sectional Glassl
+      [4561778]
+    3300004: atrium roof parapet-L1 atrium roof parapet-L [4378316]
+    3300006: Basic Roof 150mm Roof [606053]
+    3300008: Basic Roof 20 mm Roof (sill) [1276223]
+    3300010: Basic Roof 20 mm Roof (sill) [1674223]
+    3300012: Basic Roof 20 mm Roof (sill) [2822017]
+    3300014: Basic Roof 20 mm Roof (sill) [4333834]
+    3300016: Basic Roof Ballast Roof - Without Struct Slab [4527336]
+    3300018: Basic Roof Ballast Roof - Without Struct Slab [4527526]
+    3300020: Basic Roof Ballast Roof - Without Struct Slab [4527817]
+    3300022: Basic Roof Ballast Roof - Without Struct Slab [4527938]
+    3300024: Basic Roof ENTRY CANOPY_bottom [4536776]
+    3300026: Basic Roof ENTRY CANOPY_main [3905372]
+    3300028: Basic Roof ENTRY CANOPY_main [4159094]
+    3300030: Basic Roof ENTRY CANOPY_middle [4143214]
+    3300032: Basic Roof Green Roof - Without Struct Slab - Thinner Soil [1618510]
+    3300034: Basic Roof River Rocks - Without Struct Slab [1692928]
+    3300036: Basic Roof River Rocks - Without Struct Slab [2720385]
+    3300038: Basic Roof River Rocks - Without Struct Slab [2727155]
+    3300040: Basic Wall Column Cover - Exterior - Insul + RainScreen [1321389]
+    3300042: Basic Wall Concrete Curb - 20cm [1561151]
+    3300044: Basic Wall Concrete Curb - 20cm [1561155]
+    3300046: Basic Wall Concrete Curb - 20cm [2882780]
+    3300048: Basic Wall Concrete Curb - 20cm [3833856]
+    3300050: Basic Wall Concrete Curb - 20cm [4342601]
+    3300052: Basic Wall Concrete Curb - 20cm [4342787]
+    3300054: Basic Wall Concrete Curb - 20cm [4342802]
+    3300056: Basic Wall Concrete Curb - 20cm [4346159]
+    3300058: Basic Wall Concrete Curb - 20cm [4361098]
+    3300060: Basic Wall Concrete Curb - 20cm [4361099]
+    3300062: Basic Wall Concrete Curb - 20cm [4392445]
+    3300064: Basic Wall Concrete Curb - 20cm [4405538]
+    3300066: Basic Wall Concrete Curb - 20cm [4460818]
+    3300068: Basic Wall Concrete Curb - 20cm [4460862]
+    3300070: Basic Wall Concrete Curb - 20cm [4468598]
+    3300072: Basic Wall Concrete Curb - 20cm [4468782]
+    3300074: Basic Wall Concrete Curb - 20cm [4468907]
+    3300076: Basic Wall Concrete Curb - 20cm [4469105]
+    3300078: Basic Wall Concrete Curb - 20cm [4483936]
+    3300080: Basic Wall Concrete Curb - 20cm [4544331]
+    3300082: Basic Wall Exterior Wall - Cold-Formed Mtl + Composite Mtl Panel [5087178]
+    3300084: Basic Wall EXTERIOR WALL- 20cm [617748]
+    3300086: Basic Wall Glazing Partition - 1.2cm [4594654]
+    3300088: Basic Wall METAL MULLION COVER [1323705]
+    3300090: Basic Wall XC_WALL_120 - Louvered [4263728]
+    3300092: cap11 cap1 [4232519]
+    3300094: cap5 cap1 [4152853]
+    3300096: cap7 cap1 [4232562]
+    3300098: cap9 cap1 [4235739]
+    3300100: Conference Lobby Canopy1 Conference Lobby Canopy [4150103]
+    3300102: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart0
+    3300104: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart1
+    3300106: ED Canopy Glazing ED Canopy Glazing [4604442]
+    3300108: ED Canopy Metal ED Canopy Metal [4627458]
+    3300110: ED Canopy Soffit ED Canopy Soffit [4630106]
+    3300112: ed canopy sweep ed canopy sweep [4536832]
+    3300114: ED Entry ED Entry [4495760]
+    3300116: Floor Concrete Structural Slab - Darken [2822049]
+    3300118: Floor Concrete Structural Slab - Darken [4527176]
+    3300120: Floor Concrete Structural Slab [840464]
+    3300122: Floor LW Concrete on Metal Deck - 1/2meter [4084976]
+    3300124: HEAD8 HEAD [3641286]
+    3300126: louver louver [4184204]
+    3300128: Louver_south tower top north Louver_south tower top north [4029781]
+    3300130: Louver_tower bottom Louver_tower bottom [4028891]
+    3300132: Louver_tower top Louver_tower top [4029762]
+    3300134: louvers-roof louvers-roof [4365248]
+    3300136: louvers-roof1 louvers-roof [4371602]
+    3300138: Metal Cover Fascia Metal Cover Fascia [4968785]
+    3300140: north tower - bottom - louver north tower - bottom - louver [4258625]
+    3300142: NORTH TOWER - TOP - INSIDE LOUVER NORTH TOWER - TOP - INSIDE LOUVER [4287824]
+    3300144: North Tower Ground Lvl Corner Windows 2 [4208335]
+    3300146: north tower-top louver north tower-top louver [4242945]
+    3300148: Podium - Lvl 02 - East - Corner Podium - Lvl 02 - East - Corner [4147016]
+    3300150: Podium - Lvl 02 - West - Corner Podium - Lvl 02 - West - Corner [4219611]
+    3300152: Podium East - Louver@ Lvl 04 Podium East - Louver@ Lvl 04 [4212299]
+    3300154: Podium Lvl 03 Window Extended Sill EAST PODIUM1 Podium Lvl 03 Window
+      Extended Sill [4267683]
+    3300156: Podium Lvl 03 Window Extended Sill EAST PODIUM2 Podium Lvl 03 Window
+      Extended Sill [3764267]
+    3300158: Podium West - Louver@ Lvl 04 Podium West - Louver@ Lvl 04 [4264994]
+    3300160: Skylight - Panel Skylight Panel [4380284]
+    3300162: Slab Edge Exterior Metal Cover1 Slab Edge Exterior Metal Cover [3659173]
+    3300164: south tower - bottom - louver south tower - bottom - louver [4267083]
+    3300166: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart0
+    3300168: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart1
+    3300170: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart10
+    3300172: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart11
+    3300174: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart12
+    3300176: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart13
+    3300178: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart14
+    3300180: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart15
+    3300182: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart16
+    3300184: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart17
+    3300186: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart18
+    3300188: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart19
+    3300190: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart2
+    3300192: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart20
+    3300194: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart21
+    3300196: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart22
+    3300198: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart3
+    3300200: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart4
+    3300202: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart5
+    3300204: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart6
+    3300206: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart7
+    3300208: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart8
+    3300210: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart9
+    3300212: System Panel Solid [4142629]
+    4300000: Basic Roof 150mm Roof [606053]
+    4300002: Basic Wall EXTERIOR WALL- 20cm [617748]
+    4300004: Floor Concrete Structural Slab [840464]
+    4300006: Basic Roof 20 mm Roof (sill) [1276223]
+    4300008: Basic Wall Column Cover - Exterior - Insul + RainScreen [1321389]
+    4300010: Basic Wall METAL MULLION COVER [1323705]
+    4300012: Basic Wall Concrete Curb - 20cm [1561151]
+    4300014: Basic Wall Concrete Curb - 20cm [1561155]
+    4300016: Basic Roof Green Roof - Without Struct Slab - Thinner Soil [1618510]
+    4300018: Basic Roof 20 mm Roof (sill) [1674223]
+    4300020: Basic Roof River Rocks - Without Struct Slab [1692928]
+    4300022: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart0
+    4300024: Curtainwall Panel - 1st Lvl - Mid Panel Curtainwall Panel - 1st Lvl -
+      Mid Panel [1715507]_MeshPart1
+    4300026: 081000_DoorInst-Upward-Acting_PW Type SC - Overhead Sectional Glassl
+      [2499371]
+    4300028: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart0
+    4300030: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart1
+    4300032: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart2
+    4300034: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart3
+    4300036: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart4
+    4300038: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart5
+    4300040: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart6
+    4300042: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart7
+    4300044: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart8
+    4300046: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart9
+    4300048: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart10
+    4300050: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart11
+    4300052: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart12
+    4300054: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart13
+    4300056: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart14
+    4300058: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart15
+    4300060: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart16
+    4300062: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart17
+    4300064: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart18
+    4300066: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart19
+    4300068: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart20
+    4300070: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart21
+    4300072: Storefront - 2nd Lvl - Slanted Facade - LEFT Storefront - 2nd Lvl - Slanted
+      Facade - LEFT [2528538]_MeshPart22
+    4300074: Basic Roof River Rocks - Without Struct Slab [2720385]
+    4300076: Basic Roof River Rocks - Without Struct Slab [2727155]
+    4300078: Basic Roof 20 mm Roof (sill) [2822017]
+    4300080: Floor Concrete Structural Slab - Darken [2822049]
+    4300082: Basic Wall Concrete Curb - 20cm [2882780]
+    4300084: HEAD8 HEAD [3641286]
+    4300086: Slab Edge Exterior Metal Cover1 Slab Edge Exterior Metal Cover [3659173]
+    4300088: Podium Lvl 03 Window Extended Sill EAST PODIUM2 Podium Lvl 03 Window
+      Extended Sill [3764267]
+    4300090: Basic Wall Concrete Curb - 20cm [3833856]
+    4300092: Basic Roof ENTRY CANOPY_main [3905372]
+    4300094: Louver_tower bottom Louver_tower bottom [4028891]
+    4300096: Louver_tower top Louver_tower top [4029762]
+    4300098: Louver_south tower top north Louver_south tower top north [4029781]
+    4300100: Floor LW Concrete on Metal Deck - 1/2meter [4084976]
+    4300102: System Panel Solid [4142629]
+    4300104: Basic Roof ENTRY CANOPY_middle [4143214]
+    4300106: Podium - Lvl 02 - East - Corner Podium - Lvl 02 - East - Corner [4147016]
+    4300108: Conference Lobby Canopy1 Conference Lobby Canopy [4150103]
+    4300110: cap5 cap1 [4152853]
+    4300112: Basic Roof ENTRY CANOPY_main [4159094]
+    4300114: louver louver [4184204]
+    4300116: North Tower Ground Lvl Corner Windows 2 [4208335]
+    4300118: Podium East - Louver@ Lvl 04 Podium East - Louver@ Lvl 04 [4212299]
+    4300120: Podium - Lvl 02 - West - Corner Podium - Lvl 02 - West - Corner [4219611]
+    4300122: cap11 cap1 [4232519]
+    4300124: cap7 cap1 [4232562]
+    4300126: cap9 cap1 [4235739]
+    4300128: north tower-top louver north tower-top louver [4242945]
+    4300130: north tower - bottom - louver north tower - bottom - louver [4258625]
+    4300132: Basic Wall XC_WALL_120 - Louvered [4263728]
+    4300134: Podium West - Louver@ Lvl 04 Podium West - Louver@ Lvl 04 [4264994]
+    4300136: south tower - bottom - louver south tower - bottom - louver [4267083]
+    4300138: Podium Lvl 03 Window Extended Sill EAST PODIUM1 Podium Lvl 03 Window
+      Extended Sill [4267683]
+    4300140: NORTH TOWER - TOP - INSIDE LOUVER NORTH TOWER - TOP - INSIDE LOUVER [4287824]
+    4300142: Basic Roof 20 mm Roof (sill) [4333834]
+    4300144: Basic Wall Concrete Curb - 20cm [4342601]
+    4300146: Basic Wall Concrete Curb - 20cm [4342787]
+    4300148: Basic Wall Concrete Curb - 20cm [4342802]
+    4300150: Basic Wall Concrete Curb - 20cm [4346159]
+    4300152: Basic Wall Concrete Curb - 20cm [4361098]
+    4300154: Basic Wall Concrete Curb - 20cm [4361099]
+    4300156: louvers-roof louvers-roof [4365248]
+    4300158: louvers-roof1 louvers-roof [4371602]
+    4300160: atrium roof parapet-L1 atrium roof parapet-L [4378316]
+    4300162: Skylight - Panel Skylight Panel [4380284]
+    4300164: Basic Wall Concrete Curb - 20cm [4392445]
+    4300166: Basic Wall Concrete Curb - 20cm [4405538]
+    4300168: Basic Wall Concrete Curb - 20cm [4460818]
+    4300170: Basic Wall Concrete Curb - 20cm [4460862]
+    4300172: Basic Wall Concrete Curb - 20cm [4468598]
+    4300174: Basic Wall Concrete Curb - 20cm [4468782]
+    4300176: Basic Wall Concrete Curb - 20cm [4468907]
+    4300178: Basic Wall Concrete Curb - 20cm [4469105]
+    4300180: Basic Wall Concrete Curb - 20cm [4483936]
+    4300182: ED Entry ED Entry [4495760]
+    4300184: Floor Concrete Structural Slab - Darken [4527176]
+    4300186: Basic Roof Ballast Roof - Without Struct Slab [4527336]
+    4300188: Basic Roof Ballast Roof - Without Struct Slab [4527526]
+    4300190: Basic Roof Ballast Roof - Without Struct Slab [4527817]
+    4300192: Basic Roof Ballast Roof - Without Struct Slab [4527938]
+    4300194: Basic Roof ENTRY CANOPY_bottom [4536776]
+    4300196: ed canopy sweep ed canopy sweep [4536832]
+    4300198: Basic Wall Concrete Curb - 20cm [4544331]
+    4300200: 081000_DoorInst-Upward-Acting_PW-Small Type SC - Overhead Sectional Glassl
+      [4561778]
+    4300202: Basic Wall Glazing Partition - 1.2cm [4594654]
+    4300204: ED Canopy Glazing ED Canopy Glazing [4604442]
+    4300206: ED Canopy Metal ED Canopy Metal [4627458]
+    4300208: ED Canopy Soffit ED Canopy Soffit [4630106]
+    4300210: Metal Cover Fascia Metal Cover Fascia [4968785]
+    4300212: Basic Wall Exterior Wall - Cold-Formed Mtl + Composite Mtl Panel [5087178]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

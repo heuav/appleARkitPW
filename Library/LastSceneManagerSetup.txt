@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/DuplicateThisTemplateForNewModels_DoNotModify.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: bcf90578c319928428eb358c227b78b0
+timeCreated: 1501090228
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Assembled Stair Stair [1946547]
+    100002: Basic Roof SD Roof [1470246]
+    100004: Basic Roof SD Roof [2415511]
+    100006: Basic Roof Standing Seam Deck [1248650]
+    100008: Basic Roof Standing Seam Deck [1595707]
+    100010: Basic Roof Vegetative Roof [1871983]
+    100012: Basic Wall Exterior - 12" Concrete Retaining Wall [1165552]
+    100014: Basic Wall Exterior - 12" Concrete Retaining Wall [1831266]
+    100016: Basic Wall Exterior - 12" Concrete Retaining Wall [1857892]
+    100018: Basic Wall Exterior - 12" Concrete Retaining Wall [1869886]
+    100020: Basic Wall Exterior - 12" Concrete Retaining Wall [1871655]
+    100022: Basic Wall Exterior - Parapet Wall [2236154]
+    100024: Basic Wall Exterior - Standing Seam Backup Wall [2233838]
+    100026: Floor Concrete [1170414]
+    100028: Floor Concrete [1247047]
+    100030: Floor Concrete [2186344]
+    100032: Floor Vegetation [1170494]
+    100034: //RootNode
+    100036: Pad Pad 1 [1186940]
+    100038: Quad Corner Mullion Quad Mullion 1 [2601368]
+    100040: Rectangular Mullion Interior Mullion [2612821]
+    100042: Rectangular Mullion Rectangular Mullion 1 [1175750]
+    100044: Roof Soffit Roof Soffit 1 [1723747]
+    100046: Roof Soffit Roof Soffit 1 [2126560]
+    100048: Roof Soffit Roof Soffit 1 [2233533]
+    100050: Roof Soffit Roof Soffit 1 [2765745]
+    100052: Surface  [1186939]
+    100054: System Panel Glazed - Spandrel [1448759]
+    100056: System Panel Glazed [1170075]
+    100058: System Panel Perforated [2182962]
+    100060: System Panel Solid [1775607]
+    400000: Assembled Stair Stair [1946547]
+    400002: Basic Roof SD Roof [1470246]
+    400004: Basic Roof SD Roof [2415511]
+    400006: Basic Roof Standing Seam Deck [1248650]
+    400008: Basic Roof Standing Seam Deck [1595707]
+    400010: Basic Roof Vegetative Roof [1871983]
+    400012: Basic Wall Exterior - 12" Concrete Retaining Wall [1165552]
+    400014: Basic Wall Exterior - 12" Concrete Retaining Wall [1831266]
+    400016: Basic Wall Exterior - 12" Concrete Retaining Wall [1857892]
+    400018: Basic Wall Exterior - 12" Concrete Retaining Wall [1869886]
+    400020: Basic Wall Exterior - 12" Concrete Retaining Wall [1871655]
+    400022: Basic Wall Exterior - Parapet Wall [2236154]
+    400024: Basic Wall Exterior - Standing Seam Backup Wall [2233838]
+    400026: Floor Concrete [1170414]
+    400028: Floor Concrete [1247047]
+    400030: Floor Concrete [2186344]
+    400032: Floor Vegetation [1170494]
+    400034: //RootNode
+    400036: Pad Pad 1 [1186940]
+    400038: Quad Corner Mullion Quad Mullion 1 [2601368]
+    400040: Rectangular Mullion Interior Mullion [2612821]
+    400042: Rectangular Mullion Rectangular Mullion 1 [1175750]
+    400044: Roof Soffit Roof Soffit 1 [1723747]
+    400046: Roof Soffit Roof Soffit 1 [2126560]
+    400048: Roof Soffit Roof Soffit 1 [2233533]
+    400050: Roof Soffit Roof Soffit 1 [2765745]
+    400052: Surface  [1186939]
+    400054: System Panel Glazed - Spandrel [1448759]
+    400056: System Panel Glazed [1170075]
+    400058: System Panel Perforated [2182962]
+    400060: System Panel Solid [1775607]
+    2300000: Assembled Stair Stair [1946547]
+    2300002: Basic Roof SD Roof [1470246]
+    2300004: Basic Roof SD Roof [2415511]
+    2300006: Basic Roof Standing Seam Deck [1248650]
+    2300008: Basic Roof Standing Seam Deck [1595707]
+    2300010: Basic Roof Vegetative Roof [1871983]
+    2300012: Basic Wall Exterior - 12" Concrete Retaining Wall [1165552]
+    2300014: Basic Wall Exterior - 12" Concrete Retaining Wall [1831266]
+    2300016: Basic Wall Exterior - 12" Concrete Retaining Wall [1857892]
+    2300018: Basic Wall Exterior - 12" Concrete Retaining Wall [1869886]
+    2300020: Basic Wall Exterior - 12" Concrete Retaining Wall [1871655]
+    2300022: Basic Wall Exterior - Parapet Wall [2236154]
+    2300024: Basic Wall Exterior - Standing Seam Backup Wall [2233838]
+    2300026: Floor Concrete [1170414]
+    2300028: Floor Concrete [1247047]
+    2300030: Floor Concrete [2186344]
+    2300032: Floor Vegetation [1170494]
+    2300034: Pad Pad 1 [1186940]
+    2300036: Quad Corner Mullion Quad Mullion 1 [2601368]
+    2300038: Rectangular Mullion Interior Mullion [2612821]
+    2300040: Rectangular Mullion Rectangular Mullion 1 [1175750]
+    2300042: Roof Soffit Roof Soffit 1 [1723747]
+    2300044: Roof Soffit Roof Soffit 1 [2126560]
+    2300046: Roof Soffit Roof Soffit 1 [2233533]
+    2300048: Roof Soffit Roof Soffit 1 [2765745]
+    2300050: Surface  [1186939]
+    2300052: System Panel Glazed - Spandrel [1448759]
+    2300054: System Panel Glazed [1170075]
+    2300056: System Panel Perforated [2182962]
+    2300058: System Panel Solid [1775607]
+    3300000: Assembled Stair Stair [1946547]
+    3300002: Basic Roof SD Roof [1470246]
+    3300004: Basic Roof SD Roof [2415511]
+    3300006: Basic Roof Standing Seam Deck [1248650]
+    3300008: Basic Roof Standing Seam Deck [1595707]
+    3300010: Basic Roof Vegetative Roof [1871983]
+    3300012: Basic Wall Exterior - 12" Concrete Retaining Wall [1165552]
+    3300014: Basic Wall Exterior - 12" Concrete Retaining Wall [1831266]
+    3300016: Basic Wall Exterior - 12" Concrete Retaining Wall [1857892]
+    3300018: Basic Wall Exterior - 12" Concrete Retaining Wall [1869886]
+    3300020: Basic Wall Exterior - 12" Concrete Retaining Wall [1871655]
+    3300022: Basic Wall Exterior - Parapet Wall [2236154]
+    3300024: Basic Wall Exterior - Standing Seam Backup Wall [2233838]
+    3300026: Floor Concrete [1170414]
+    3300028: Floor Concrete [1247047]
+    3300030: Floor Concrete [2186344]
+    3300032: Floor Vegetation [1170494]
+    3300034: Pad Pad 1 [1186940]
+    3300036: Quad Corner Mullion Quad Mullion 1 [2601368]
+    3300038: Rectangular Mullion Interior Mullion [2612821]
+    3300040: Rectangular Mullion Rectangular Mullion 1 [1175750]
+    3300042: Roof Soffit Roof Soffit 1 [1723747]
+    3300044: Roof Soffit Roof Soffit 1 [2126560]
+    3300046: Roof Soffit Roof Soffit 1 [2233533]
+    3300048: Roof Soffit Roof Soffit 1 [2765745]
+    3300050: Surface  [1186939]
+    3300052: System Panel Glazed - Spandrel [1448759]
+    3300054: System Panel Glazed [1170075]
+    3300056: System Panel Perforated [2182962]
+    3300058: System Panel Solid [1775607]
+    4300000: Basic Wall Exterior - 12" Concrete Retaining Wall [1165552]
+    4300002: System Panel Glazed [1170075]
+    4300004: Floor Concrete [1170414]
+    4300006: Floor Vegetation [1170494]
+    4300008: Rectangular Mullion Rectangular Mullion 1 [1175750]
+    4300010: Surface  [1186939]
+    4300012: Pad Pad 1 [1186940]
+    4300014: Floor Concrete [1247047]
+    4300016: Basic Roof Standing Seam Deck [1248650]
+    4300018: System Panel Glazed - Spandrel [1448759]
+    4300020: Basic Roof SD Roof [1470246]
+    4300022: Basic Roof Standing Seam Deck [1595707]
+    4300024: Roof Soffit Roof Soffit 1 [1723747]
+    4300026: System Panel Solid [1775607]
+    4300028: Basic Wall Exterior - 12" Concrete Retaining Wall [1831266]
+    4300030: Basic Wall Exterior - 12" Concrete Retaining Wall [1857892]
+    4300032: Basic Wall Exterior - 12" Concrete Retaining Wall [1869886]
+    4300034: Basic Wall Exterior - 12" Concrete Retaining Wall [1871655]
+    4300036: Basic Roof Vegetative Roof [1871983]
+    4300038: Assembled Stair Stair [1946547]
+    4300040: Roof Soffit Roof Soffit 1 [2126560]
+    4300042: System Panel Perforated [2182962]
+    4300044: Floor Concrete [2186344]
+    4300046: Roof Soffit Roof Soffit 1 [2233533]
+    4300048: Basic Wall Exterior - Standing Seam Backup Wall [2233838]
+    4300050: Basic Wall Exterior - Parapet Wall [2236154]
+    4300052: Basic Roof SD Roof [2415511]
+    4300054: Quad Corner Mullion Quad Mullion 1 [2601368]
+    4300056: Rectangular Mullion Interior Mullion [2612821]
+    4300058: Roof Soffit Roof Soffit 1 [2765745]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
